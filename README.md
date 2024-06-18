@@ -1,6 +1,6 @@
 # ML-Algorithm-from-Scratch
 
-The followinf algorithms are implemented here:
+The following algorithms are implemented here:
 1. Train Test Split
 2. Stratified Split
 3. K-Fold Cross Validation
